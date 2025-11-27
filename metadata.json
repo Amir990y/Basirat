@@ -1,0 +1,5 @@
+{
+  "name": "Basirat AI Analyzer",
+  "description": "A specialized content analysis tool utilizing Gemini to evaluate texts and media based on specific ideological criteria, focusing on fact-checking and strategic responses.",
+  "requestFramePermissions": []
+}
